@@ -3,6 +3,12 @@ html, body {
   padding: 0;
   background-color: pink;
 }
+
 canvas {
   display: block;
+}
+
+h1, p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
